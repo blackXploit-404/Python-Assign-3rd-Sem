@@ -1,9 +1,19 @@
-# PYTHON_LAB
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+# Python Lab Assignments - 3rd Semester
 
-This repository contains Python programs and solutions for college lab assignments.
+<p align="center">
+
+[![Repository Status](https://img.shields.io/badge/Status-No_Longer_Maintained-red.svg)]()
+[![Academic Session](https://img.shields.io/badge/Academic_Session-2024--25-green.svg)]()
+[![License](https://img.shields.io/github/license/blackXploit-404/Python-Assign-3rd-Sem)](LICENSE)
+[![Programming Language](https://img.shields.io/badge/Language-Python-brightgreen.svg)]()
+[![Lab Assignments](https://img.shields.io/badge/Assignments-60-blue.svg)]()
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+</p>
+
+This repository contains Python programs and solutions for college lab assignments **3rd Semester, Academic Session 2024-25**. 
+
+> **Note:** This repository is no longer actively maintained. however it still serves as the resource for upcoming students.
+
 
 ## Structure
 - Each file (e.g., `1.py`, `2.py`, ...) contains a solution to a specific lab problem.
@@ -21,17 +31,7 @@ This repository contains Python programs and solutions for college lab assignmen
    python3 1.py
    ```
 
-## Maintainers
-
-- **DEBASIS**  
-  Email: [debasisbiswas.dev@proton.me](mailto:debasisbiswas.dev@proton.me)  
-  Portfolio: [https://debasisbiswas.me](https://debasisbiswas.me)  
-
-- **Surajit**  
-  Email: [sensurajit@proton.me](mailto:sensurajit@proton.me)  
-  Portfolio: [https://surajitsen.live](https://surajitsen.live)
 ---
-Feel free to use or modify these codes for your learning!
 
 ## Contributors
 
